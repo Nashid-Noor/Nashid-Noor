@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there 👋
+- 🔭 I’m currently working as a salesforce developer in Wipro.
+- 🌱 I’m currently learning about Full Stack and Blockchain development.
+- 📫 To reach out to me, mail me at nashidnoor16@gmail.com
 
 <!--
 **Nashid-Noor/Nashid-Noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
