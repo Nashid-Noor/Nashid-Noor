@@ -1,6 +1,5 @@
 ### Hey there 👋
 - 🔭 I’m currently working as a Salesforce Industries(Vlocity) developer in Wipro.
-- 🌱 I’m currently learning about Full Stack and Blockchain development.
 - 📫 To reach out to me, mail me at nashidnoor16@gmail.com
 
 <!--
