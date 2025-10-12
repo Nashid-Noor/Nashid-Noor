@@ -1,5 +1,5 @@
 ### Hey there 👋
-- 🔭 I’m currently working as a Salesforce Industries(Vlocity) developer in Wipro.
+- Hi, I'm Nashid! I recently completed my MSc in Artificial Intelligence from the University of Surrey. I'm passionate about developing innovative AI solutions. Feel free to check out my repositories and reach out if you're interested in working together or exchanging ideas!
 - 📫 To reach out to me, mail me at nashidnoor16@gmail.com
 
 <!--
